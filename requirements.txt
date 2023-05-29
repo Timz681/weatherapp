@@ -1,0 +1,13 @@
+pandas
+numpy 
+seaborn 
+streamlit 
+pyttsx3 
+SpeechRecognition 
+meteostat 
+torch 
+matplotlib 
+sklearn 
+nltk 
+xgboost 
+statsmodels
